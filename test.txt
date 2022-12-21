@@ -1,3 +1,4 @@
 testing with git
 modified to check status
 testing fetch command
+testing git pull command
