@@ -1,2 +1,3 @@
 testing with git
 modified to check status
+testing fetch command
